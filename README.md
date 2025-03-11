@@ -1,4 +1,7 @@
-## Hi there 👋
+## Ben Seymour
+
+![vercel-ghirkin2a1](https://github.com/user-attachments/assets/2268aa19-4c8e-40c5-ad80-8f54f1bab1dc)
+
 
 <!--
 **bseymour/bseymour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
