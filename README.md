@@ -1,7 +1,6 @@
 ## Ben Seymour
 
-![vercel-ghirkin2a1](https://github.com/user-attachments/assets/2268aa19-4c8e-40c5-ad80-8f54f1bab1dc)
-
+![vercel-nextconf](https://res.cloudinary.com/benseymourcom/image/upload/v1741715216/vercel-nextconf-2024_trim.jpg)
 
 <!--
 **bseymour/bseymour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
